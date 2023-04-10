@@ -2,7 +2,7 @@
 <br/>
 
 #### Rede social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-1a1275108/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-augusto-oliveira/)
 <br/>
 
 #### Status
@@ -14,6 +14,7 @@
 
 #### Tecnologias que utilizo no dia a dia
 
+[![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
@@ -25,4 +26,4 @@
 #### Sobre mim
 
 Estudante de tecnologia e Gestão de processo, com experiencia profissional em Gestão Operacional.
-Atualmente estudando na "FATEC - Faculdade de Tecnologia Professor Jessen Vidal" o curso de "Banco de Dados" e na "FGV - Fundação Getulio Vargas" o curso de "Gestão de Projetos", e mais alguns cursos complementares na Alura! Para saber mais um pouco sobre mim me segue no link acima do LinkedIn.
+Atualmente estudando na "FATEC - Faculdade de Tecnologia Professor Jessen Vidal" o curso de "Banco de Dados" e mais alguns cursos complementares na Alura! Para saber mais um pouco sobre mim me segue no link acima do LinkedIn.
